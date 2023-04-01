@@ -11,7 +11,7 @@ A recent graduate of Computer Science with a good foundation in Software Enginee
 - 🌱 I’m currently learning HTML, CSS & JavaScript with FLGW - Frontend Learning Group for Women (https://www.arit.dev/community) and NodeJs with AltSchool Africa (https://www.altschoolafrica.com/schools/engineering).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer (Intern or Entry level).
-- 📫 You can [view my resume](#https://drive.google.com/file/d/1EUZNdVjbuxJyq3sdZoxJh6Tx8gd99p7g/view?usp=sharing) and contact me by emailing ecelineamarachi@yahoo.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1EUZNdVjbuxJyq3sdZoxJh6Tx8gd99p7g/view?usp=sharing) and contact me by emailing ecelineamarachi@yahoo.com.
 
 ---
 
