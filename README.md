@@ -7,11 +7,11 @@ A recent graduate of Computer Science with a good foundation in Software Enginee
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I adore providing services to clients in addition to deciding to pursue a career in software engineering.
+- 💡 Fun fact: I enjoy offering help to people.
 - 🌱 I’m currently learning HTML, CSS & JavaScript with FLGW - Frontend Learning Group for Women (https://flgw.org/) and NodeJs with AltSchool Africa (https://www.altschoolafrica.com/schools/engineering).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ecelineamarachi@yahoo.com.
+- 📫 You can [view my resume](# https://drive.google.com/file/d/1EUZNdVjbuxJyq3sdZoxJh6Tx8gd99p7g/view?usp=sharing) and contact me by emailing ecelineamarachi@yahoo.com.
 
 ---
 
